@@ -64,25 +64,5 @@
     
     // 暴露模型外部可以引入
     module.exports = model;
-    
-    
-    
-    
-
-###  代码英语 ###
-    
-mongoose    英 ['mɒŋɡuːs]
-install    英 [ɪnˈstɔ:l]    vt. 安装
-save    英 [seɪv]    vt. 保存
-require    英 [rɪ'kwaɪə]    vt. 需要；要求；命令
-create    英 [kriː'eɪt]    vt. 创造，创作；造成
-open      英 ['əʊp(ə)n]    vt. 公开；打开
-Schema    英 ['skiːmə]    n. [计] 模式
-Model    英 ['mɒdl]    n. 模型
-connect    英 [kə'nekt]    vt. 连接；联合；关连
-unique    英 [juː'niːk]    [数] 唯一的，独一无二的
-default    英 [dɪ'fɔːlt; 'diːfɔːlt]    n. 系统默认值
-module    英 ['mɒdjuːl]    n. [计] 模块
-exports    英 ['ekspɔ:rts]    n. 输出额
 
     
