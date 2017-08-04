@@ -31,24 +31,3 @@ Express是Node中的web服务器框架，通过Express可以快速的在Node平�
     app.listen(1314,function(){
     console.log("成功开启服务器");
     });
-    
-    
-    
-    
-    
-
-### 代码英语 ###
-
-express    英 [ɪk'spres; ek-]    n. 快车，快递，专使
-app    英 [æp]    abbr. 应用（Application）
-use    英 [juːz]    n. 使用；用途；发挥
-get    英 [get]    vt. 使得；获得；受到；变成
-static    英 ['stætɪk]   adj. 静态的
-public    英 ['pʌblɪk]    adj. 公众的；公用的
-request    英 [rɪ'kwest]    n. 请求；需要
-response    英 [rɪ'spɒns]    n. 响应；反应；回答
-query    英 ['kwɪərɪ]    [计] 查询
-send    英 [send]    vt. 发送，寄
-listen    英 ['lɪs(ə)n]     n. 听，倾听
-
-    
