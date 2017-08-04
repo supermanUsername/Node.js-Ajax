@@ -37,15 +37,3 @@ MongoDB的数据模型是面向文档的，所谓文档是一种类似于JSON的
  
 ### 显示所有集合 ###
   show collections
-      
-      
-      
-      
-      
-## 英语代码 ##
- 
-database    英 ['deɪtəbeɪs]    n. 数据库，资料库
-collection    英 [kə'lekʃ(ə)n]    n. 采集，聚集
-document    英 ['dɒkjʊm(ə)nt]    [计] 文档
-show    英 [ʃəʊ]    n. 显示
-use    英 [juːz]    n. 使用；用途；发挥
