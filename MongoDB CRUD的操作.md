@@ -139,26 +139,3 @@ CRUD操作指对文档做create（创建、增加）、read（读取、查询）
  
     // 删除数据库
     db.dropDatabase();
- 
- 
- 
- 
- 
- 
-
-### 代码英语 ###
- 
-create  英 [kriː'eɪt]    vt. 创造，创作；造成
-read    英 [ri:d;red]    n. 阅读；读物
-update  英 [ʌp'deɪt]    n. 更新；现代化
-delete  英 [dɪ'liːt]    vt. 删除
-collection    英 [kə'lekʃ(ə)n]    n. 采集，聚集
-insert  英 [ɪn'sɜːt]    vt. 插入；嵌入
-one     英 [wʌn]    num. 一；一个
-many    英 ['menɪ]    adj. 许多的
-find    英 [faɪnd]    vt. 查找，找到
-multi   英 ['mʌltɪ]    pref. 多
-replace 英 [rɪ'pleɪs]   vt. 取代，代替；替换，更换
-drop    英 [drɒp]    vi. 下降；终止
-databese    英 ['deɪtəbeɪs]    n. 数据库，资料库
- 
