@@ -268,16 +268,3 @@ responseXML（用的比较少）
     
         </script>
         </html>
-
-
-
-
-
-### 代码英语 ###
-
-request    英 [rɪ'kwest]    n. 请求；需要
-ready    英 ['redɪ]    adj. 准备好；现成的；迅速的；情愿的；快要…的
-state    英 [steɪt]    vt. 规定；声明
-change    英 [tʃeɪn(d)ʒ]    n. 变化
-status    英 ['steɪtəs]    n. 状态
-response    英 [rɪ'spɒns]    n. 响应
