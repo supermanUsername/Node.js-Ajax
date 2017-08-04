@@ -107,19 +107,3 @@
 			router.use(...);
 			
 			app.use(router);
-
-            
-            
-            
-            
-### 代码英语 ###
-route    英 ['ruːtə(r)]    n. [计] 路由器
-get    英 [get]    vt. 使得；获得
-post    英 [pəʊst]    n. 岗位；邮件；标杆
-all    英 [ɔːl]    n. 全部
-request    英 [rɪ'kwest]    n. 请求；需要
-query    英 ['kwɪərɪ]    [计] 查询
-response    英 [rɪ'spɒns]    n. 响应
-status    英 ['steɪtəs]    n. 状态
-send    英 [send]    vt. 发送，寄；派遣；使进入；发射
-redirect    英 [[ˌri:dəˈrekt]]    vt. 使改方向
