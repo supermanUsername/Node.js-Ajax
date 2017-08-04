@@ -172,19 +172,3 @@ Document对象的方法
 - save([callback]) 将文档保存到数据库中
 
 - remove([callback]) 清除当前的文档
-          
-          
-          
-          
-          
-          
-### 代码英语 ###
-
-mongoose    英 ['mɒŋɡuːs]
-Schema    英 ['skiːmə]    n. [计] 模式
-Model    英 ['mɒdl]    n. 模型
-Document    英 ['dɒkjʊm(ə)nt]    [计] 文档
-connect    英 [kə'nekt]    vt. 连接；联合；关连
-disconnect    英 [dɪskə'nekt]    vi. 断开
-unique    英 [juː'niːk]    [数] 唯一的，独一无二的
-default    英 [dɪ'fɔːlt; 'diːfɔːlt]    n. 系统默认值  
