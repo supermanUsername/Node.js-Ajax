@@ -159,11 +159,3 @@ session中数据的有效期就是一次会话，浏览器关闭session中的数
     app.listen(3000,function () {
     	console.log("OK");
     });
-    
-    
-    
-    
-    
-### 代码英语 ###
-cookie    英 ['kʊkɪ]    n. 饼干；小甜点
-session    英 ['seʃ(ə)n]    n. 会议
